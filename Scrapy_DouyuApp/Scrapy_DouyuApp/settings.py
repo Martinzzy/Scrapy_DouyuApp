@@ -104,7 +104,7 @@ IMAGES_STORE = os.path.join(project_dir,'images')
 MYSQL_HOST = 'localhost'
 MYSQL_DBNAME = 'douyu'
 MYSQL_PORT = 3306
-MYSQL_PASSWORD = 'zzy517322'
+MYSQL_PASSWORD = 'root'
 MYSQL_USER = 'root'
 
 #插入数据库的时间格式
